@@ -1,1 +1,1 @@
-![n7down's GitHub Banner](./assets/1500x500.jfif)
+![n7down's GitHub Banner](./assets/banner-1500x500.jfif)
